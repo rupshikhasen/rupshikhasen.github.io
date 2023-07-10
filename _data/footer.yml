@@ -1,20 +1,16 @@
 contact:
   - name: Email
-    value: sahasiddharth611@outlook.com
-    link: mailto:sahasiddharth611@outlook.com
+    value: rupshikhasen@gmail.com
+    link: mailto:rupshikhasen@gmail.com
     icon: fa fa-envelope
 follow:
   - name: GitHub
-    link: http://github.com/trunc8
-    value: trunc8
-  - name: Facebook
-    link: http://facebook.com/sahasiddharth611
+    link: http://github.com/rupshikhasen
+    value: rupshikhasen
   - name: Twitter
-    link: http://twitter.com/trunc8s
-    value: "@trunc8s"
+    link: http://twitter.com/rupshikhasen
+    value: "@rupshikhasen"
   - name: LinkedIn
-    link: http://linkedin.com/in/sahasiddharth611
+    link: http://linkedin.com/in/rupshikhasen
   - name: RSS
     link: /feed.xml
-  - name: YouTube
-    link: https://www.youtube.com/channel/UCuFFiiiCyaLEBVkKoUevKxg

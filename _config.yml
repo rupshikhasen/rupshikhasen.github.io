@@ -1,13 +1,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Siddharth Saha
+title: Rupshikha's Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Siddharth's minimal blog page.
+  Rupshikha's blog page
 # baseurl: "/bay" # the subpath of the site
-url: "https://trunc8.github.io" # the base hostname & protocol for the site
+url: "https://rupshikhasen.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-193570686-1"
+google_analytics: ""
 
 permalink: /:year/:month/:day/:title
 

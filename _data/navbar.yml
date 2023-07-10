@@ -10,7 +10,7 @@
   slug: project
 
 - name: CV
-  slug: resume/Siddharth-Saha-Resume.pdf
+  # slug: resume/Siddharth-Saha-Resume.pdf
 
 - name: Experience
 

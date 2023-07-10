@@ -2,10 +2,10 @@
 layout: search
 slug: /search
 ---
-Suggestions:  
+<!-- Suggestions:  
 
 - *ros2*
 - *optimization*
 - *mapping*
 - *linux*
-- *bash*
+- *bash* -->

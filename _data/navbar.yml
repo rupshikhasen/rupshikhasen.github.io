@@ -3,16 +3,14 @@
 
 - name: Blog
 
-# - name: CV
-#   slug: cv/Siddharth-Saha-CV.pdf
-
-- name: Projects
-  slug: project
+# - name: Projects
+#   slug: project
 
 - name: CV
-  # slug: resume/Siddharth-Saha-Resume.pdf
+  slug: cv/Rupshikha_Sen_CV.pdf
 
 - name: Experience
 
-- name: <i class="fa fa-search"></i>
-  slug: search
+# - name: <i class="fa fa-search"></i>
+#   slug: search
+

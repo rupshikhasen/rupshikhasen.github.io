@@ -1,8 +1,48 @@
-- title: Position Title
-  company: Company Name, Location
+- title: Graduate Teaching Assistant
+  company: Bloomberg School of Public Health, Johns Hopkins University
   image:
-    src: /assets/img/work/company-logo.png
+    src: /assets/img/education/Logo_JHU.png
     alt: Company Name
-  date: May '23 - Aug '23
-  description: Job description
+  date: June '23 - Present
+  description: I will be working as a teaching assistant for three courses - Intro to R, Epidemiological Inferences in Public Health I, and Statistical Methods in Public Health I. These classes are conducted by the Department of Biostatistics & Department of Epidemiology.
 
+- title: Consultant
+  company: Metabolon
+  image:
+    src: /assets/img/work/Logo_metabolon.png
+    alt: Company Name
+  date: Feb '23 - Apr '23
+  description: I worked on a team to determine feasible FDA approval & insurance reimbursement pathways to launch a novel D2C metabolomic diagnostic company.
+
+
+- title: Graduate Research Assistant
+  company: Bloomberg School of Public Health, Johns Hopkins University
+  image:
+    src: /assets/img/education/Logo_JHU.png
+    alt: Company Name
+  date: Dec '22 - Present
+  description: I am working on EHR data from the Hopkins database to analyze Long Covid outcomes & trends. 
+
+- title: Drug Safety Physician
+  company: Indegene Inc., Bangalore
+  image:
+    src: /assets/img/work/Logo_Indegene.png
+    alt: Company Name
+  date: Apr '21 - Aug '22
+  description: Worked on adverse event reports to provide causality assessment for drug safety signal studies including serious events for the Pfizer BNT162b2 vaccine. I collaborated with stakeholders internationally to ensure regulatory compliance for FDA, EMA, MHRA and PMBDA submissions.
+
+- title: Private Dentist
+  company: Delhi NCR
+  image:
+    src: /assets/img/work/Logo_dentistry.png
+    alt: Company Name
+  date: Mar '20 - Mar '21
+  description: Worked as a private junior dentist in various clinics across Delhi NCR.
+
+- title: House Surgeon
+  company: Dayananda Sagar College of Dental Sciences, India
+  image:
+    src: /assets/img/work/Logo_DSCDS.png
+    alt: Company Name
+  date: Sep '18 - Nov '19
+  description: Rotated in 8 specialties of dentistry, examining, diagnosing, and treating maxillofacial pathologies & traumas. I had the opportunity to work in several primary public health centers under the Government of India and provide low cost treatment to underserved populations.

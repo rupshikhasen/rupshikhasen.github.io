@@ -1,9 +1,20 @@
-- title: Position Title
-  company: College Name, Location
+- title: Masters in Health Science (Epidemiology)
+  company: Bloomberg School of Public Health, Baltimore, MD
   image:
-    src: /assets/img/work/College-logo.png
+    src: /assets/img/education/Logo_JHU.png
     alt: College Name
-  date: May '23 - Aug '23
-  description: Description
+  date: Sep '22 - May '24
+  description: Graduate student in Department of Epidemiology. Received the Master’s Tuition Scholarship for the program. I was recently inducted as a Center Scholar (Center for Drug Effectiveness Research) & received a Doctoral grade in the Cumulative Comprehensive Exams. <br><br> **Certificates** <br> 
+       &#x2022; <a href="https://e-catalogue.jhu.edu/public-health/certificates/pharmacoepi-and-drug-safety/#courserequirementstext"  target="_blank"> Pharmacoepidemiology and Drug Safety (2023)</a> <br>
+       &#x2022; <a href="https://e-catalogue.jhu.edu/public-health/certificates/clinical-trials/#text"  target="_blank"> Clinical Trials (2023)</a> <br>
+       &#x2022; <a href="https://e-catalogue.jhu.edu/public-health/certificates/public-health-econ/"  target="_blank"> Public Health Economics (2024) </a>
+
+- title: Bachelors in Dental Surgery 
+  company: Rajiv Gandhi University of Health Sciences, Dayananda Sagar College of Dental Science, Bangalore, India
+  image:
+    src: /assets/img/education/Logo_RGUHS.png
+    alt: College Name
+  date: Sep '14 - Nov '19
+  description: Dental undergraduate program. Chosen Best outgoing student (All-rounder) in a graduating class of 55 students by a panel of professors. University top 10 – Oral and Maxillofasial Surgery out of 2000+ students. Graduated top 10% of outgoing class.
 
 
